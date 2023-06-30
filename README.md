@@ -2,8 +2,9 @@
   <code>ulauncher-theme-libadwaita-dark</code>
 </h1>
 
-> NOTE
-> This theme is fork from leodr/ulauncher-theme-libadwaita.
+> **Note**  
+> This theme is fork from <a href="https://github.com/leodr/ulauncher-theme-libadwaita">leodr/ulauncher-theme-libadwaita</a>.  
+> Thanks for a great theme.
 
 <p align="center">
     <strong>A Ulauncher theme that looks native under <code>libadwaita</code>.</strong>
@@ -41,7 +42,7 @@ Settings application on GNOME 43.
 
 ## ❯ Screenshots
 
-![Screenshot of ulauncher-theme-libadwaita](./screenshot.webp)
+<div align="center"><img alt="Screenshot of ulauncher-theme-libadwaita" src="./screenshot.webp"/></div>
 
 <br>
 
@@ -52,8 +53,8 @@ Run the following script in your terminal:
 ```bash
 mkdir -p ~/.config/ulauncher/user-themes
 
-git clone https://github.com/leodr/ulauncher-theme-libadwaita.git \
-  ~/.config/ulauncher/user-themes/libadwaita
+git clone https://github.com/irhdevel/ulauncher-theme-libadwaita-dark.git \
+  ~/.config/ulauncher/user-themes/libadwaita-dark
 ```
 
 <br>
