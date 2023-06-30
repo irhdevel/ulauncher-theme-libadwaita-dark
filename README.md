@@ -1,6 +1,9 @@
 <h1 align="center">
-  <code>ulauncher-theme-libadwaita</code>
+  <code>ulauncher-theme-libadwaita-dark</code>
 </h1>
+
+> NOTE
+> This theme is fork from leodr/ulauncher-theme-libadwaita.
 
 <p align="center">
     <strong>A Ulauncher theme that looks native under <code>libadwaita</code>.</strong>

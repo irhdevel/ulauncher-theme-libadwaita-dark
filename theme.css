@@ -4,23 +4,23 @@
  * App Window
  */
 @define-color window_shadow rgba(0, 0, 0, 0.5);
-@define-color window_bg rgb(250,250,250);
+@define-color window_bg rgb(36,36,36);
 @define-color prefs_backgroud rgba(0,0,0,0.08);
 
 /**
  * Input
  */
-@define-color selected_bg_color #99c1f1;
+@define-color selected_bg_color #ffffff;
 @define-color selected_fg_color rgba(0,0,0,0.8);
-@define-color input_color rgba(0,0,0,0.8);
-@define-color caret_color rgba(0,0,0,0.8);
+@define-color input_color rgba(255,255,255,0.8);
+@define-color caret_color rgba(255,255,255,0.8);
 
 /**
  * Result items
  */
-@define-color item_name rgba(0,0,0,0.8);
-@define-color item_text rgba(0,0,0,0.44);
-@define-color item_box_selected rgba(0,0,0,0.08);
+@define-color item_name rgba(255,255,255,0.8);
+@define-color item_text rgba(255,255,255,0.44);
+@define-color item_box_selected rgba(255,255,255,0.08);
 @define-color item_text_selected @item_text;
 @define-color item_name_selected @item_name;
 @define-color item_shortcut_color @item_text;
