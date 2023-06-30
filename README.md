@@ -41,7 +41,7 @@ Settings application on GNOME 43.
 
 ## ❯ Screenshots
 
-![Screenshot of ulauncher-theme-libadwaita](./screenshot.png)
+![Screenshot of ulauncher-theme-libadwaita](./screenshot.webp)
 
 <br>
 
